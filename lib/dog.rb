@@ -13,7 +13,7 @@ fido = Dog.new
 fido.name ="Fido"
 
 puts fido.name
-# binding.pry
+binding.pry
 
 snoopy = Dog.new
 snoopy.name = "Snoopy"
